@@ -22,3 +22,4 @@ This project contains a Convolutional Neural Network (CNN) model for image class
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+ https://a40106d42795ba4586.gradio.live
